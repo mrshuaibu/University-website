@@ -1,6 +1,8 @@
 # Cedar Valley University
 
-A responsive website for Cedar Valley University, designed to provide students, alumni, and visitors with easy access to university information, programs, and resources.
+A responsive website for Cedar Valley University, designed to provide students, 
+alumni, and visitors with easy access to university information, programs, and 
+resources.
 
 ## Project Features
 
@@ -12,17 +14,30 @@ A responsive website for Cedar Valley University, designed to provide students, 
 
 ## Screenshots
 
-![Cedar Valley Hero Banner](./src/img/herobanner.jpg)
-*The hero section of the website highlighting university features.*
+![Cedar Valley Hero Banner](./src/img/home.png)
+*This is the landing page of the website.*
 
-![Cedar Valley News Section](./src/img/grad.jpg)
-*Recent news section showcasing university events and achievements.*
+![Cedar Valley News Section](./src/img/about.png)
+*This is the about us page.*
+
+![Cedar Valley News Section](./src/img/contact.png)
+*This is the contact us page.*
 
 ## Technologies Used
 
-- HTML5
-- CSS3 (including Flexbox and Grid)
-- FontAwesome for icons
-- Google Fonts (Nunito Sans)
-- JavaScript
-- Responsive design techniques
+## Technologies Used
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![Flexbox](https://img.shields.io/badge/Flexbox-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![Grid](https://img.shields.io/badge/CSS%20Grid-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![FontAwesome](https://img.shields.io/badge/FontAwesome-%23339AF0.svg?style=flat&logo=font-awesome&logoColor=white)
+![Google Fonts](https://img.shields.io/badge/Google%20Fonts-%234285F4.svg?style=flat&logo=google&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+
+
+## Authors/Contributors
+- [Myles Reid](https://github.com/myles-reid)
+- [Oluwajuwon Michael Shuaibu](https://github.com/mrshuaibu) (Me)
+- [David Sommerville](https://github.com/davidsommerville)
+- [Samuel Reutcky](https://github.com/SamuelReutcky)
