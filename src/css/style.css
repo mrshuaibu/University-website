@@ -298,7 +298,7 @@ main {
 .one {
   padding: 0 25px;
   flex-grow: 1;
-  overflow: scroll;
+  overflow: hidden;
 }
 
 .sections button {
