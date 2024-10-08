@@ -23,21 +23,18 @@ resources.
 ![Cedar Valley News Section](./src/img/contact.png)
 *This is the contact us page.*
 
-## Technologies Used
+## Team members
+
+- [Oluwajuwon Michael Shuaibu](https://github.com/mrshuaibu) (Me)
+- [Myles Reid](https://github.com/myles-reid)
+- [David Sommerville](https://github.com/davidsommerville)
+- [Samuel Reutcky](https://github.com/SamuelReutcky)
 
 ## Technologies Used
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![Flexbox](https://img.shields.io/badge/Flexbox-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![Grid](https://img.shields.io/badge/CSS%20Grid-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![FontAwesome](https://img.shields.io/badge/FontAwesome-%23339AF0.svg?style=flat&logo=font-awesome&logoColor=white)
 ![Google Fonts](https://img.shields.io/badge/Google%20Fonts-%234285F4.svg?style=flat&logo=google&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
 
-
-## Authors/Contributors
-- [Myles Reid](https://github.com/myles-reid)
-- [Oluwajuwon Michael Shuaibu](https://github.com/mrshuaibu) (Me)
-- [David Sommerville](https://github.com/davidsommerville)
-- [Samuel Reutcky](https://github.com/SamuelReutcky)
