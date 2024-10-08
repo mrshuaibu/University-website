@@ -261,7 +261,7 @@ main {
 .sections h3 {
   text-align: center;
   color: var(--app-color-primary);
-  font-size: 35px;
+  font-size: 34px;
   text-decoration: none;
   margin: 25px;
 }
