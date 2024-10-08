@@ -276,7 +276,6 @@ main {
 
 .cols {
   flex: 0 0 auto;
-  height: 550px;
   width: calc(25% - 20px);
   border-radius: 5px;
   background-color: #fff;
@@ -303,10 +302,11 @@ main {
 }
 
 .sections button {
-  padding: 10px;
+  padding: 5px;
   width: 150px;
   border-radius: 50px;
   background-color: var(--app-color-primary);
+  margin-top: 25px;
   margin-left: 25px;
   align-self: flex-start;
   font-size: 16px;
@@ -344,6 +344,9 @@ button:hover {
   .cols {
     width: calc(50% - 10px);
   }
+  .sections button {
+    margin-top: 25px;
+  }
 }
 
 @media screen and (max-width: 500px) {
@@ -353,6 +356,9 @@ button:hover {
   .cols {
     height: 350px;
     width: 100%;
+  }
+  .sections button {
+    margin-top: 25px;
   }
 }
 
